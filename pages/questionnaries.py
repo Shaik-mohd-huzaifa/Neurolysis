@@ -28,9 +28,7 @@ for question in data["questions"]:
     st.write(question["question"])
 
     # Radio buttons for answer selection
-    selected_answer = st.radio(
-        "Choose an answer:", question["options"], key=question["question"]
-    )
+    selected_answer = st.radio("Choose an answer:", question["options"])
 
     # Text area for reason
     reason_text = st.text_area(

@@ -1,0 +1,108 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pytest
+.cache/
+
+# Flask specific
+instance/
+.webassets-cache
+
+# Streamlit specific
+.streamlit/
+
+# Environments and IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# pyenv
+.python-version
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# pytype
+.pytype/
+
+# Coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# dotenv
+.env
+.env.*
+
+# Docker
+*.log
+docker-compose*.yaml
+Dockerfile
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Python-specific
+*.pyo
+*.pyd
+*.whl
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Local configuration files
+config.yaml

@@ -2,6 +2,7 @@
 
 Neurolysis is a platform designed to analyze the learning styles of neurodiverse children, helping parents and teachers understand and support their unique ways of learning to foster an unrestricted educational experience.
 
+Link to the application: https://neurolysis-cneckkduroywadmgxobzko.streamlit.app/ 
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)

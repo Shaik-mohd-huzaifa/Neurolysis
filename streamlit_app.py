@@ -11,4 +11,4 @@ st.write(
 
 
 if st.button("Check your kids Learning Style"):
-    st.switch_page("pages/Info.py")
+    st.switch_page("pages/1 - Info.py")
